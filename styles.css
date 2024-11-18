@@ -1,9 +1,9 @@
 body {
-    background: purple;
+    background: rgb(71, 64, 158);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: yellow;
+    color: rgb(255, 255, 255);
     text-align: center;
 } 
 
@@ -15,7 +15,7 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: rgb(248, 220, 220); 
+    background: rgb(255, 239, 239); 
     border-radius: 25%;
 }
 
@@ -23,7 +23,7 @@ h1 {
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    border: 2px solid #ffffff; /* choose a color */
     display: block;
     margin: auto;
     }
@@ -53,5 +53,5 @@ a { /* change the appearance of ALL links */
     width: 150px;
     height: 200px;
     border-radius: 25%;
-    border: 2px solid rgb(126, 14, 201);
+    border: 2px solid rgb(255, 255, 255);
     }
