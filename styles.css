@@ -5,6 +5,7 @@ body {
 h1 {
     color: rgb(255, 255, 255);
     text-align: center;
+    font-size: large;
 } 
 
 .projects { 
@@ -29,7 +30,7 @@ h1 {
     }
 a { /* change the appearance of ALL links */
         text-decoration: none;
-        color: rgb(255, 255, 255);
+        color: black;
         text-align: center;
     }
 .project p { /* change the appearance of paragraph tags inside .project divs */
